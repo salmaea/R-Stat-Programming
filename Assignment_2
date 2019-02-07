@@ -2,7 +2,7 @@
 #Intro to R & Statistical Programming
 #Please label the file with your name and upload to blackboard. 
 
-#Name: Salma Elsayed-Ali
+#Name: ...
 
 
 #Directions:
@@ -61,7 +61,7 @@ codeblock <- {
 }
 
 
-
+#alternate
 for(i in c(1:39)){
   ifelse(i <= 20, print(1:i),print(1:(40-i)))
 }
